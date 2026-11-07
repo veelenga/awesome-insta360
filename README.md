@@ -90,6 +90,7 @@ Covers the GO series (GO, GO 2, GO 3, GO 3S, GO Ultra), X series (ONE X, X2, X3,
 - [insta360-quicklook](https://github.com/faeton/insta360-quicklook) - Native macOS Quick Look extension for `.insv`, `.insp`, and `.lrv` files.
 - [immich-insta360-viewer](https://github.com/inirin/immich-insta360-viewer) - Browser-based `.insv` viewer for Immich.
 - [pano-album](https://github.com/robert-mcdermott/pano-album) - Create image gallery websites for 360 degree panoramic images.
+- [Immuch360](https://github.com/freeKC/Immuch360) - App for Android, Android TV, Meta Quest and Windows that plays raw `.insv` and `.insp` files with the calibration stored in each file, with experimental gyroscope stabilisation on Android.
 
 ## Stabilization and telemetry overlays
 
